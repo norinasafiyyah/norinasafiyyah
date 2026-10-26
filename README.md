@@ -1,15 +1,15 @@
 
 <div align="center">
 
-# Hi, I'm Ammar Khumaini 👋
+# Hi, I'm Norina Safiyyah👋
 
 ### First-Year Data Engineering Student at UTM
 
-<img src="YOUR_IMAGE_URL_HERE" alt="Ammar Khumaini" width="150" style="border-radius: 50%;" />
+<img src="/images/profile.jpg" alt="Norina Safiyyah" width="150" style="border-radius: 50%;" />
 
 *Learning, building, and exploring the world of data.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/norinasafiyyah)
 
 </div>
 
@@ -47,8 +47,8 @@
 
 ## 📫 Connect With Me
 
-- **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- **Email:** YOUR_EMAIL@example.com
+- **GitHub:** [norinasafiyyah](https://github.com/norinasafiyyah)
+- **Email:** norinasafiyyah@graduate.utm.my
 
 ---
 
