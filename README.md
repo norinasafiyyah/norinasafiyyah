@@ -2,7 +2,6 @@
 GITHUB PROFILE README
 Customise:
 1. Add your own photo to this repository as profile.jpg.
-2. Add a banner image named banner.png, or remove the banner line.
 3. Add your LinkedIn URL and professional email when ready.
 -->
 
