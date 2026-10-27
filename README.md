@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Norina Safiyyah👋
+# Hi, I'm Norina Safiyyah 👋
 
 ### First-Year Data Engineering Student at UTM
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 First-year **Data Engineering** student at Universiti Teknologi Malaysia (UTM).
 - 📊 Interested in data, technology, and problem-solving.
@@ -33,6 +33,24 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=norinasafiyyah&show_icons=true&theme=tokyonight&hide_border=true" alt="Norina's GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norinasafiyyah&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=norinasafiyyah&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
 
 ---
 
